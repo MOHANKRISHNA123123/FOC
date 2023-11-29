@@ -2,7 +2,7 @@
 int main()
 {
 	int n,i;
-	printf("Name: m.thirumala manohar\nReg.no: 192211851\nEnter last number of series:");
+	printf(	"Name:CH.MOHAN KRISHNA\nReg.no: 192211852")\nEnter last number of series:");
 	scanf("%d",&n);
 	for(i=2;i<=n;)
 	{
