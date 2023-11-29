@@ -3,7 +3,7 @@
 int main()
 {
 	int n,i,sum=0;
-	printf("Name: m.thirumala manohar\nReg.no:192211851\nEnter last number of series:");
+	printf("NAME:CH.MOHAN KRISHNA REG:192211852\nEnter last number of series:");
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
